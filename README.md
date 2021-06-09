@@ -4,9 +4,9 @@ Delorean Coin Token Contract Address:
 Delorean Coin
 A Coin For The Future!
 
-https://www.dlncoin.com
+https://coinpaprika.com/coin/dln-delorean-coin/
 
-📊 Chart: https://info.uniswap.org/#/tokens/0x0e70ce72d21f6588b084be77e7237268e3fa19db
+📊 Chart: https://coinpaprika.com
 
 Follow us on social media
 Telegram: https://t.me/DeloreanCoin
